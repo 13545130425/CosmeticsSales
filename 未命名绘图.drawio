@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T09:19:19.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="JwY56t6ZxIcPlD7LI9t6" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T09:20:39.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5gfSM-M7IM5sBTI9L58r" version="20.0.1" type="github">
   <diagram id="kGc93vFl_diiWturIOpw" name="第 1 页">
     <mxGraphModel dx="2697" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -234,28 +234,28 @@
         <mxCell id="76-xVKI1ZCRFyHYmjDiz-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.029;entryY=0.104;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="76-xVKI1ZCRFyHYmjDiz-44" target="76-xVKI1ZCRFyHYmjDiz-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="76-xVKI1ZCRFyHYmjDiz-93" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;PaitientServiceImpl&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+        <mxCell id="76-xVKI1ZCRFyHYmjDiz-93" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;PaitientService&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-510" y="760" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="76-xVKI1ZCRFyHYmjDiz-95" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;PaitientService&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+        <mxCell id="76-xVKI1ZCRFyHYmjDiz-95" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;PaitientServiceImpl&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-300" y="760" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="76-xVKI1ZCRFyHYmjDiz-96" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Paitient&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="760" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="76-xVKI1ZCRFyHYmjDiz-97" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;RoomServiceImpl&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+        <mxCell id="76-xVKI1ZCRFyHYmjDiz-97" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;RoomService&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="760" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="76-xVKI1ZCRFyHYmjDiz-98" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;RoomService&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+        <mxCell id="76-xVKI1ZCRFyHYmjDiz-98" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;RoomServiceImpl&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="760" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="76-xVKI1ZCRFyHYmjDiz-99" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Room&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="760" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="76-xVKI1ZCRFyHYmjDiz-100" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;BedServiceImpl&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+        <mxCell id="76-xVKI1ZCRFyHYmjDiz-100" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;BedService&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="760" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="76-xVKI1ZCRFyHYmjDiz-101" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;BedService&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
+        <mxCell id="76-xVKI1ZCRFyHYmjDiz-101" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;BedServiceImpl&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="760" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="76-xVKI1ZCRFyHYmjDiz-102" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;Bed&lt;/span&gt;" style="html=1;" vertex="1" parent="1">
